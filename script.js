@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'Skip.png', alt: 'Skip Emoji', name: 'Skip' },
 
         { src: 'CorazonCute.png', alt: 'Hear Emoji', name: 'Corazon' },
-        { src: 'Mod2.png', alt: 'Mod2 Emoji', name: 'Mod 02' },
+        { src: 'mod2.png', alt: 'Mod2 Emoji', name: 'Mod 02' },
         { src: 'corazon.png', alt: 'Corazon Emoji', name: 'Corazon 02' },
         { src: 'heart.png', alt: 'CorazonS Emoji', name: 'Corazon S' },
         { src: 'C4.png', alt: 'Check2 Emoji', name: 'Check 02' },
